@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2"
-  "downloadUrl": "https://github.com/daigorogo94/PatriaCraftFiles/releases/download/v1.0.1/PatriaCraftLauncher-1.0.1.zip",
-  "sha256": "4b5f527f4ac17db7c04671498e295f9c76466f9c1dcf750b4ade4b7c9344cbea",
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/daigorogo94/PatriaCraftFiles/releases/download/v1.0.2/PatriaCraftLauncher-1.0.2.zip",
+  "sha256": "60AFBAAA78F985C0106A702B2C4FB0FD90401D6B96A53C1ADC5EC6BE4E56067C",
   "minecraft": "1.21.11",
   "loader": "Vanilla"
 }
